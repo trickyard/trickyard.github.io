@@ -25,11 +25,14 @@ a:hover {
 h1, h2, h3 {
   font-family: "ff-netto-web";
   font-weight: normal;
+}
+
+h1, h2, h3, p, ul, ol {
   margin-bottom: 1rem;
 }
 
-p {
-  margin-bottom: 1rem;
+ul {
+  list-style-type: square;
 }
 
 header {
