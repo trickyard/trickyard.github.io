@@ -66,3 +66,10 @@ footer {
   right: 0.25rem;
   left: 0.25rem;
 }
+
+#mixpanel-badge {
+  position: fixed;
+
+  left: 5px;
+  bottom: 0px;
+}
